@@ -120,6 +120,10 @@ a {
 .font-crimson {
 	font-family: 'Crimson Text', serif;
 }
+.font-crimson-bold {
+	font-family: 'Crimson Text', serif;
+	font-weight: bold;
+}
 .font-montserrat-bold {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
