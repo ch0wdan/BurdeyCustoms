@@ -8,21 +8,21 @@
 -------------------------------------------------------------------*/
 
 /*------------------------------------------------------------------
-body 
+body
  + WRAP
  + HEADER
  + NAVIGATION
  + BANNER
  + SERVICES
  + OUR FEATURED FOUNDERS
- + BLOG UPDATES 
+ + BLOG UPDATES
  + APPOINMENT
  + NEWS FROM BLOG
  + PARTNERS / CLIENTS
  + FOOTER
  + SOCIAL ICONS
  + MEGA MENU
- + 3 MENU LEVEL 
+ + 3 MENU LEVEL
 -------------------------------------------------------------------*/
 /*=======================================================
       IMPORT FILE
@@ -120,8 +120,9 @@ a {
 .font-crimson {
 	font-family: 'Crimson Text', serif;
 }
-.font-montserrat {
+.font-montserrat-bold {
 	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
 }
 .font-hair-line {
 	font-family: 'montserrathairline';
@@ -2905,7 +2906,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 	border: none;
 }
 /*===========================================
-    Rating Stars 
+    Rating Stars
 ===========================================*/
 .stars {
 	display: inline-block;
@@ -3635,7 +3636,7 @@ input:focus, textarea:focus, keygen:focus, select:focus {
 	float: right;
 }
 /*=======================================================
-			ICONS 
+			ICONS
 ========================================================*/
 .icon-box .ib-icon {
 	background-color: transparent;
@@ -6278,7 +6279,7 @@ blockquote cite {
 	color: #fff;
 }
 /*=======================================================
-			Instagram Section 
+			Instagram Section
 ========================================================*/
 .instagram-studio li {
 	padding: 0px;
