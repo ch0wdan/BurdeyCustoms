@@ -632,6 +632,10 @@ hr.black {
 	padding: 20px 60px;
 	font-size: 14px;
 }
+.btn.btn-med.btn-center {
+	align-items: center;
+	justify-content: center;
+}
 .btn.btn-color {
 	background: #eeb013;
 	color: #fff;
